@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -43506,7 +43506,7 @@ This is the mating connector for the EM408 GPS receiver. The EM408 connects to t
 </devices>
 </deviceset>
 <deviceset name="6_PIN_SERIAL_CABLE" prefix="J">
-<description>&lt;h3&gt;6-pin header connection for use with the "FTDI BASIC" pinout - CABLE SIDE.&lt;/h3&gt;
+<description>&lt;h3&gt;6-pin header connection for use with the "FTDI BASIC" pinout - CABLE test SIDE.&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;h3&gt;Also known as "Arduino Serial Program Header".&lt;/h3&gt;
